@@ -9,7 +9,7 @@
             "trait_type": "Background",
             "value": "Black"
         },
-        { "trait_type": "Eyeball", "value": "Red" }, { "trait_type": "Eye color", "value": "Red" }, { "trait_type": "Iris", "value": "Small" }, { "trait_type": "Shine", "value": "Shapes" }, { "trait_type": "Bottom lid", "value": "Low" }, { "trait_type": "Top lid", "value": "Low" }, { "trait_type": "BLOBBY", "value": "Expert" }
+        { "trait_type": "Eyeball", "value": "Red" }, { "trait_type": "Eye color", "value": "Red" }, { "trait_type": "Iris", "value": "Small" }, { "trait_type": "Shine", "value": "Shapes" }, { "trait_type": "Bottom lid", "value": "Low" }, { "trait_type": "Top lid", "value": "Low" }, { "trait_type": "BLOBBY", "value": "Expert" }, { "trait_type": "Nosee", "value": "Rolex" }
     ],
     "properties": {
         "files": [{ "uri": "https://arweave.net/-a9WuRNhZXxM5XHU1i2HEuSxKle9kcjZzXZcLC6QAUc?ext=png", "type": "image/png" }],
